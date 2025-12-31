@@ -48,8 +48,8 @@ I believe in **consistent learning, clean code, and problem solving**.
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/YOUR_USERNAME  
-- Email: your-email@example.com  
+- GitHub: https://github.com/Meysam-Zarei
+- Email: meysamzareinezhad@gmail.com
 
 ---
 
