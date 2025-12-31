@@ -1,16 +1,58 @@
 ## Hi there 👋
 
-<!--
-**Meysam-Zarei/Meysam-Zarei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 👋 Hi, I'm Meysam Zarei
 
-Here are some ideas to get you started:
+🚀 Aspiring Software Developer | Python Enthusiast | Lifelong Learner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 About Me
+I'm a motivated and self-driven learner focused on building a strong foundation in **Python programming** and software development.  
+My goal is to grow into a professional developer, gain real-world experience, and work internationally in the tech industry.
+
+I believe in **consistent learning, clean code, and problem solving**.
+
+---
+
+## 🧠 Currently Learning
+- 🐍 Python (core concepts, OOP, problem solving)
+- 🧰 Git & GitHub (version control & collaboration)
+- 🐧 Linux fundamentals
+- 📊 Basics of Data Analysis
+- 🌐 Preparing for backend & automation projects
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python  
+- **Tools:** Git, GitHub, Linux, VS Code  
+- **Concepts:** OOP, CLI tools, debugging, clean code  
+
+---
+
+## 📂 Projects
+> (More projects coming soon – actively building!)
+
+- 🔹 **Python Practice Projects** – small scripts and exercises  
+- 🔹 **Automation & CLI Tools** – learning real-world use cases  
+- 🔹 **Future:** Data analysis & backend projects  
+
+---
+
+## 🎯 Goals
+- ✅ Build a strong Python foundation  
+- 🚀 Create real-world projects  
+- 🌍 Prepare for remote & international job opportunities  
+- 💼 Start a professional career in software development  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/YOUR_USERNAME  
+- Email: your-email@example.com  
+
+---
+
+⭐ *Thanks for visiting my profile! I'm always open to learning and collaboration.*
+
+
