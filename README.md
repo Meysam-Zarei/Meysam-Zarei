@@ -1,5 +1,3 @@
-<!-- Profile README -->
-
 <!--# Hi, I'm Meysam Zarei
 
 🚀 Aspiring Software Developer | Python Enthusiast | Lifelong Learner  
