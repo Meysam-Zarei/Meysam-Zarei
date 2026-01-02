@@ -1,54 +1,52 @@
 # 👋 Hi, I'm Meysam Zarei
 
-🚀 Aspiring Software Developer | Python Enthusiast | Lifelong Learner  
+💻 Aspiring Software Developer | Python-Focused | Problem Solver  
 
 ---
 
-## 💡 About Me
-I'm a motivated and self-driven learner focused on building a strong foundation in **Python programming** and software development.  
-My goal is to grow into a professional developer, gain real-world experience, and work internationally in the tech industry.
+## 🚀 About Me
+I’m a motivated and disciplined software developer focused on building strong foundations in **Python programming** and backend development.
 
-I believe in **consistent learning, clean code, and problem solving**.
-
----
-
-## 🧠 Currently Learning
-- 🐍 Python (core concepts, OOP, problem solving)
-- 🧰 Git & GitHub (version control & collaboration)
-- 🐧 Linux fundamentals
-- 📊 Basics of Data Analysis
-- 🌐 Preparing for backend & automation projects
+I’m actively working on real-world projects, improving my problem-solving skills, and continuously expanding my technical knowledge with the goal of becoming a professional developer in an international environment.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Current Focus
+- Writing clean and maintainable Python code  
+- Object-Oriented Programming (OOP)  
+- Working with Git & GitHub in real projects  
+- Linux fundamentals & command-line tools  
+- Building small but practical applications  
+
+---
+
+## 🛠️ Technical Skills
 - **Languages:** Python  
-- **Tools:** Git, GitHub, Linux, VS Code  
-- **Concepts:** OOP, CLI tools, debugging, clean code  
+- **Tools & Technologies:** Git, GitHub, Linux, VS Code  
+- **Concepts:** OOP, debugging, version control, problem solving  
 
 ---
 
 ## 📂 Projects
-> (More projects coming soon – actively building!)
+> Selected practice and learning projects (continuously updated)
 
-- 🔹 **Python Practice Projects** – small scripts and exercises  
-- 🔹 **Automation & CLI Tools** – learning real-world use cases  
-- 🔹 **Future:** Data analysis & backend projects  
+- 🧩 Python mini-projects & scripts  
+- ⚙️ CLI tools & automation experiments  
+- 📊 Beginner data-handling exercises  
 
 ---
 
-## 🎯 Goals
-- ✅ Build a strong Python foundation  
-- 🚀 Create real-world projects  
-- 🌍 Prepare for remote & international job opportunities  
-- 💼 Start a professional career in software development  
+## 🎯 Career Goals
+- Build production-ready programming skills  
+- Contribute to real-world projects  
+- Grow into a professional backend / software developer  
+- Work in international and collaborative environments  
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/Meysam-Zarei
+- GitHub: https://github.com/Meysam-Zarei  
 - Email: meysamzareinezhad@gmail.com
-
 ---
 
-⭐ *Thanks for visiting my profile! I'm always open to learning and collaboration.*
+⭐ *Always learning, improving, and building.*
