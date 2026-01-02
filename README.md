@@ -31,9 +31,9 @@ I believe in **consistent learning, clean code, and problem solving**.
 ##  Projects
 > (More projects coming soon – actively building!)
 
-- 🔹 **Python Practice Projects** – small scripts and exercises  
-- 🔹 **Automation & CLI Tools** – learning real-world use cases  
-- 🔹 **Future:** Data analysis & backend projects  
+-  **Python Practice Projects** – small scripts and exercises  
+-  **Automation & CLI Tools** – learning real-world use cases  
+-  **Future:** Data analysis & backend projects  
 
 ---
 
